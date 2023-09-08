@@ -406,7 +406,7 @@ export const menu = [
       firstName: "Elnora",
       email: "tuhkabapu@gmail.com",
       phone: "123 456 789",
-      createdAt: "01.02.2023",
+      createdAt: "01.022.2023",
       verified: true,
     },
     {
